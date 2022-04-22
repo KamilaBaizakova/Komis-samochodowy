@@ -1,0 +1,5 @@
+Opel,Astra,Zielony,1.6,11231
+Opel,Astra,Szary,1.8,12999
+Opel,Zafira,Żółty,1.5,17200
+Ford,Focus,Czerwony,1.8 TDI,21010
+Ford,Mondeo,Srebrny,2.0 GFS,31000
